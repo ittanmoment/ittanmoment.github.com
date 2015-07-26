@@ -1,0 +1,9 @@
+Origin: ittan repository
+Label: ittan
+Suite: stable
+Version: 1.0
+Codename: tangelo
+Architectures: iphoneos-arm
+Components: main
+Description: ittan's repository
+ 
